@@ -4,6 +4,6 @@ namespace RenditionStudios.Library.NET.Observable
 {
     public class GitHubTest
     {
-        public string test = "Hello World";
+        public string test = "Hello World2";
     }
 }
